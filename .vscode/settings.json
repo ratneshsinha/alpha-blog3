@@ -1,0 +1,13 @@
+{
+  "workbench.editor.untitled.hint": "hidden",
+  "workbench.startupEditor": "newUntitledFile",
+  "editor.fontSize": 18,
+  "editor.tabSize": 2,
+  "extensions.ignoreRecommendations": false,
+  "editor.lineNumbers":"off",
+  "emmet.includeLanguages": {
+      "*.erb": "html",
+      "ruby": "html"
+  },
+  "editor.defaultFormatter": "vscode.html-language-features"
+}
